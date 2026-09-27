@@ -8,7 +8,7 @@ image:
   repository: tiklu01/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "36313166173"
+  tag: "36315702570"
 
 ingress:
   enabled: false
